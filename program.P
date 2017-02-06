@@ -1,0 +1,3 @@
+-b:- not a.
+c:- not c, not a.
+f:- not j.
